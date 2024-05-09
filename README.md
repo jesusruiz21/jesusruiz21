@@ -1,6 +1,6 @@
-### Hola, soy Jesús 👋
+
 <div align="center">
-  <h1 align="center">Hola, soy <a href="www.linkedin.com/in/jrgjesus21">jesusruiz21</a></h1>
+  <h1 align="center">Hola, soy <a href="www.linkedin.com/in/jrgjesus21">jesusruiz21 👋</a></h1>
 </div>
 
 <!--
