@@ -1,6 +1,7 @@
 ### Hola, soy Jesús 👋
-
-<h1>hola</h1>
+<div align="center">
+  <h1 align="center">Hola, soy <a href="www.linkedin.com/in/jrgjesus21">jesusruiz21</a></h1>
+</div>
 
 <!--
 **jesusruiz21/jesusruiz21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
